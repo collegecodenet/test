@@ -1,5 +1,6 @@
 ---
 title: Hi
+slug: how-to-secure-a-linux-web-server
 ---
 
 # tests
