@@ -1,5 +1,7 @@
 ---
 title: Hi
+author: Chris
+publicationDate: 1/1/2021
 slug: how-to-secure-a-linux-web-server
 ---
 
