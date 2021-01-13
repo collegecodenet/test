@@ -1,11 +1,9 @@
 ---
-title: Hi
+title: How to Secure a Linux Web Server
 author: Chris
 publicationDate: 1/1/2021
 slug: how-to-secure-a-linux-web-server
 ---
-
-# tests
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi quis hendrerit dolor magna eget. Nibh tortor id aliquet lectus proin. Lobortis scelerisque fermentum dui faucibus in. Pharetra magna ac placerat vestibulum lectus mauris ultrices. Vitae congue eu consequat ac felis donec et odio. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus. At tellus at urna condimentum mattis pellentesque id nibh. Id nibh tortor id aliquet lectus proin nibh nisl. Enim nunc faucibus a pellentesque. Tortor posuere ac ut consequat semper viverra nam libero. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Cursus vitae congue mauris rhoncus aenean vel. Libero id faucibus nisl tincidunt eget nullam.
 
