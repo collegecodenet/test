@@ -1,5 +1,6 @@
 ---
 title: How to Secure a Linux Web Server
+category: C#
 author: Chris
 publicationDate: 1/1/2021
 slug: how-to-secure-a-linux-web-server
